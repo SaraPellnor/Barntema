@@ -1,0 +1,2 @@
+2023-04-19T13:36:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\Barntema\wp-content\plugins\woocommerce\src\Admin\API\Reports\Coupons\DataStore.php on line 8
+

@@ -1,0 +1,188 @@
+2023-04-24T10:41:01+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin-ajax.php(22): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin-ajax.php(22): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:07+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:19+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin-ajax.php(22): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:20+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\nav-menus.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:24+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\nav-menus.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:27+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\customize.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:54+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\customize.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:41:57+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\customize.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:42:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:42:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-admin\admin-ajax.php(22): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:42:22+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:42:30+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
+2023-04-24T10:42:44+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "remove_checkout_sidebar" not found or invalid function name in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\MAMP\htdocs\Barntema\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\MAMP\htdocs\Barntema\wp-settings.php(623): do_action('init')
+#3 C:\MAMP\htdocs\Barntema\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\Barntema\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\Barntema\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#6 C:\MAMP\htdocs\Barntema\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#7 {main}
+  thrown in C:\MAMP\htdocs\Barntema\wp-includes\class-wp-hook.php on line 308
+
